@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidgaikwad02&label=Profile%20views&color=0e75b6&style=flat" alt="sidgaikwad02" /> </p>
 
-- 🔭 I’m currently working on **Handwritter**
+- 🔭 I’m passionate to learn new Technologies..
 
-- 🌱 I’m currently learning **Fullstack Web Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms **
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidgaikwad02](https://github.com/sidgaikwad02)
 
