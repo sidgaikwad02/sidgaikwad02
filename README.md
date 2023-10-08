@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidgaikwad02&label=Profile%20views&color=0e75b6&style=flat" alt="sidgaikwad02" /> </p>
 
-- 🔭 I’m passionate to learn new Technologies..
+- 🔭 I’m passionate to learn new Technologies...
 
 - 🌱 I’m currently learning **Data Structures and Algorithms **
 
