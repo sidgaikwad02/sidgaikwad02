@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidgaikwad02](https://github.com/sidgaikwad02)
 
-- 💬 Ask me about **MYSQL,CPP,WEB-DEV**
+- 💬 Ask me about **React.js,Node.js,CPP,WEB-DEV**
 
 - 📫 How to reach me **gaikwadsiddharth547@gmail.com**
 
